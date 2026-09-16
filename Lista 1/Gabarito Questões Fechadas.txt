@@ -1,0 +1,12 @@
+1. D) I e III, apenas.
+2. C) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+3. E) 8 e 8.
+4. A) concentra responsabilidades pouco relacionadas, tornando difícil explicar seu propósito em uma única frase.
+5. B) comparar o resultado obtido com o resultado esperado, falhando o teste se divergirem.
+6. C) I e II, apenas.
+7. E) não possuir asserção: apenas imprime o saldo, sem falhar automaticamente se o valor estiver incorreto.
+8. D) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+9. A) no compartimento inferior do retângulo da classe.
+10. E) I e III, apenas.
+11. B) não faz sentido sem o todo, havendo dependência de tempo de vida entre parte e todo.
+12. D) I e III, apenas.
